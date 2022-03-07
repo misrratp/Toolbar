@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Misraim/Desktop/Toolbar/app/src/main/res/drawable/fav.xml" value="0.2445" />
-        <entry key="..\:/Users/Misraim/Desktop/Toolbar/app/src/main/res/layout/activity_main.xml" value="0.21875" />
-        <entry key="..\:/Users/Misraim/Desktop/Toolbar/app/src/main/res/menu/menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/EjemploToolBar/app/src/main/res/drawable/fav.xml" value="0.1155" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/EjemploToolBar/app/src/main/res/layout/activity_main.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/EjemploToolBar/app/src/main/res/layout/activity_pantalla_dos.xml" value="0.16" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/EjemploToolBar/app/src/main/res/menu/menu.xml" value="0.4" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/EjemploToolBar/app/src/main/res/menu/menu_pantalla_dos.xml" value="0.4" />
       </map>
     </option>
   </component>

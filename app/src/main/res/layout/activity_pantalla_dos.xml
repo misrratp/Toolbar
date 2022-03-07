@@ -7,14 +7,15 @@
     tools:context=".PantallaDos">
 
     <androidx.appcompat.widget.Toolbar
+
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
         android:elevation="4dp"
-        android:popupTheme="@style/Theme.AppCompat.Light"
         android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
-        app:titleTextColor="#69F0AE"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:titleTextColor="?android:attr/textColorPrimaryInverse"
         tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
