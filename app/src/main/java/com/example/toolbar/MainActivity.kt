@@ -1,9 +1,11 @@
 package com.example.toolbar
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.widget.Toolbar
 
@@ -19,7 +21,16 @@ class MainActivity : AppCompatActivity() {
         toolbar =  findViewById(R.id.toolbar)
         toolbar?.setTitle(R.string.app_name)
         setSupportActionBar(toolbar)
+
+
+        val bir = findViewById<Button>(R.id.bir)
+        bir.setOnClickListener{
+            val intent = Intent(this, PantallaDos::class.java)
+            startActivity(intent)
+        }
+
     }
+
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu, menu)
