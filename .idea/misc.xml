@@ -3,11 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Abimael/Desktop/Proyectos/EjemploToolBar/app/src/main/res/drawable/fav.xml" value="0.1155" />
-        <entry key="..\:/Users/Abimael/Desktop/Proyectos/EjemploToolBar/app/src/main/res/layout/activity_main.xml" value="0.1947463768115942" />
-        <entry key="..\:/Users/Abimael/Desktop/Proyectos/EjemploToolBar/app/src/main/res/layout/activity_pantalla_dos.xml" value="0.16" />
-        <entry key="..\:/Users/Abimael/Desktop/Proyectos/EjemploToolBar/app/src/main/res/menu/menu.xml" value="0.4" />
-        <entry key="..\:/Users/Abimael/Desktop/Proyectos/EjemploToolBar/app/src/main/res/menu/menu_pantalla_dos.xml" value="0.4" />
+        <entry key="..\:/Users/Misraim/Desktop/Toolbar/app/src/main/res/drawable/fav.xml" value="0.2445" />
+        <entry key="..\:/Users/Misraim/Desktop/Toolbar/app/src/main/res/layout/activity_pantalla_dos.xml" value="0.21875" />
+        <entry key="..\:/Users/karen/AndroidStudioProjects/ToolBar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/karen/AndroidStudioProjects/ToolBar/app/src/main/res/drawable-v24/icono_busqueda.xml" value="0.1" />
+        <entry key="..\:/Users/karen/AndroidStudioProjects/ToolBar/app/src/main/res/drawable/eco.xml" value="0.1" />
+        <entry key="..\:/Users/karen/AndroidStudioProjects/ToolBar/app/src/main/res/drawable/fav.xml" value="0.1" />
+        <entry key="..\:/Users/karen/AndroidStudioProjects/ToolBar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/karen/AndroidStudioProjects/ToolBar/app/src/main/res/drawable/icono_busqueda.xml" value="0.1" />
+        <entry key="..\:/Users/karen/AndroidStudioProjects/ToolBar/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/karen/AndroidStudioProjects/ToolBar/app/src/main/res/layout/activity_pantalla_dos2.xml" value="0.1" />
+        <entry key="..\:/Users/karen/AndroidStudioProjects/ToolBar/app/src/main/res/layout/pantallados.xml" value="0.1" />
+        <entry key="..\:/Users/karen/AndroidStudioProjects/ToolBar/app/src/main/res/menu/menu.xml" value="0.22083333333333333" />
       </map>
     </option>
   </component>

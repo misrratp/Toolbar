@@ -14,8 +14,7 @@
         android:background="?attr/colorPrimary"
         android:elevation="4dp"
         android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
-        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-        app:titleTextColor="?android:attr/textColorPrimaryInverse"
+        android:popupTheme="@style/Theme.AppCompat.Light"
         tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
